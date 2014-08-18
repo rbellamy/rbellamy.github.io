@@ -1,4 +1,4 @@
-rbellamy.github.com
+rbellamy.github.io
 ===================
 
 Repo-ish
